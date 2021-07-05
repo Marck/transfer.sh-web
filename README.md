@@ -51,4 +51,4 @@ You should see a `dist` directory, where all the basic .html are generated.
 
 ## Donate
 
-Original repo from [Dutchcoders](https://github.com/dutchcoders/transfer.sh-web). If you want to donate to Dutchcoders, you can do so via [Bitcoin](bitcoin:164ybRMLbg1dhhWWiUkXtiNr7jUhMKdJqH)
+Original repo from [Dutchcoders](https://github.com/dutchcoders/transfer.sh-web). If you want to donate to Dutchcoders, you can do so via Bitcoin: 164ybRMLbg1dhhWWiUkXtiNr7jUhMKdJqH
